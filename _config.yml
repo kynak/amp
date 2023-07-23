@@ -4,13 +4,13 @@ show_downloads: false
 google_analytics:
 # Your website URL (e.g. http://lafronzt.github.io or https://lafronz.com)
 # Used for Sitemap.xml and your RSS feed
-url:https://blog.jasaindigo.com/
+url:https://blog.jasaindigo.com
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://lafronzt.github.io/repository-name)
 # and NOT your User repository (http://lafronzt.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 # otherwise leave as ""
-baseurl: "https://blog.jasaindigo.com/"
+baseurl: "https://blog.jasaindigo.com"
 # Used for the Schema Data, as well as for other SEO Data.
 # (e.g. Tyler La Fronz)
 name:
